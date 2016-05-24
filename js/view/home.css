@@ -1,0 +1,27 @@
+body {
+    background-color: #d0e4fe;
+}
+
+
+h1.col-md-4 {
+	background-color: yellow;
+    color: black;
+    font-family: "times new roman";
+}
+
+h3 {
+    color: black;
+    text-align: left;
+    font-family: "Times new roman";
+}
+
+h4.col-md-4 {
+	background-color: pink;
+    color: black;
+    font-family: "Arial";
+}
+
+p {
+    font-family: "Arial";
+    font-size: 14px;
+}
